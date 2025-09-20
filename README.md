@@ -1,4 +1,4 @@
-## cout << "Selamunaleykum Dunya!" << endl
+## cout << "Selamunaleykum Dunya!" << endl;
 
 
 
